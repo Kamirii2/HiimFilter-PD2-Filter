@@ -3675,29 +3675,14 @@ ItemDisplay[UNI !ID FILTLVL<9 (amf OR ba6 OR bad OR bae OR dra OR drd OR xhn OR 
 // Tier 2 Unique Callouts
 // Filter level 1-7
 //-----------------------------------------------------------------------------------
-// Cerebus Bite - Blood Spirit
 // The Oculus - Swirling Crystal
 // Skin of the Vipermagi - Serpentskin Armor
 // Thundergods Vigor - War Belt
 // Silkweave - Mesh Boots
 // Magefist - Light Gauntlets
-// Gravepalm - Sharkskin Gloves
-// Ghostflame - Legend Spike
-// Doombringer - Champion Sword
-// Suicide Branch - Burnt Wand
-// Boneshade Lich - Wand
-// Toothrow - Sharktooth Armor
-// Merman's Spocket - Wyrmhide Boots
 // Vampire Gaze - Grim Helm
-// Marrowwalk - Boneweave Boots
-// Warlords Trust - Military Axe
-// Hellslayer - Decapitator
-// Dragonscale - Zakarum Shield
-// Lava Gout - Battle Gauntlets
-// Death Cleaver - Berserker Axe
 // Skull Collector - Rune Staff
-// Eschutas Temper - Eldritch Orb
-// Shadow Dancer - Myrmidon Greaves
+
 
 ItemDisplay[UNI !ID FILTLVL<8 (drb OR oba OR xea OR zhb OR xmb OR tgl OR xvg OR 7bl OR 7b7 OR 9wn OR 7bw OR xld OR ulb OR xh9 OR umb OR 9la OR 7bt OR pae OR xtg OR 7lw OR 7wa OR 8ws OR obc OR uhb)]: %MAP-68%%SOUNDID-2678%%GOLD%* *  %NAME%  %GOLD%* *
 
@@ -3706,29 +3691,45 @@ ItemDisplay[UNI !ID FILTLVL<8 (drb OR oba OR xea OR zhb OR xmb OR tgl OR xvg OR 
 //-----------------------------------------------------------------------------------
 
 // Stalker's Cull - Runic Talons
-// Blackoak Shield - Luna
-// Corpsemourn - Ornate Plate
-// Titans Grip - Bramble Mitts  
-// Twilights Reflection - Hyperion
-// Guardian Angel - Templar Coat
 // Pus Spitter - Siege Crossbow
 // Denmother - Sun Spirit
 // Ebonbane - Grand Matron Bow
-// Peasant Crown - War Hat
-// The Patriarch - Great Sword
-// Silks of the Victor - Ancient Armor
-// Leviathan - Kraken Shell
-// Plague Bearer - Rune Sword
 // Demon Machine - Chu-Ko-Nu
-// Wildspeaker - Lion Helm
 // Fenris - Alpha Helm
+// Atmas Wail - Embossed Plate
 
 ItemDisplay[UNI !ID FILTLVL<8 (7tw OR uml OR xar OR ulg OR urg OR xlt OR 8mx OR drc OR amc OR xap OR gsd OR aar OR uld OR 9ls OR 8rx OR ba7 OR dr6)]: %DOT-68%%SOUNDID-2666%%GOLD%*  %NAME%  %GOLD%*
 
 
 // Tier 0 Unique Callouts
-// Filter level 1-7
+// Filter level 1-6
 //-----------------------------------------------------------------------------------
+// Peasant Crown - War Hat
+// Cerebus Bite - Blood Spirit
+// Gravepalm - Sharkskin Gloves
+// Ghostflame - Legend Spike
+// Doombringer - Champion Sword
+// Suicide Branch - Burnt Wand
+// Boneshade Lich - Wand
+// Toothrow - Sharktooth Armor
+// Merman's Spocket - Wyrmhide Boots
+// Warlords Trust - Military Axe
+// Hellslayer - Decapitator
+// Dragonscale - Zakarum Shield
+// Lava Gout - Battle Gauntlets
+// Death Cleaver - Berserker Axe
+// Eschutas Temper - Eldritch Orb
+// Shadow Dancer - Myrmidon Greaves
+// Blackoak Shield - Luna
+// Corpsemourn - Ornate Plate
+// Titans Grip - Bramble Mitts  
+// Twilights Reflection - Hyperion
+// Guardian Angel - Templar Coat
+// The Patriarch - Great Sword
+// Silks of the Victor - Ancient Armor
+// Leviathan - Kraken Shell
+// Plague Bearer - Rune Sword
+// Wildspeaker - Lion Helm
 // Skullders Ire - Russet Armor
 // Razortail - Sharkskin Belt
 // Venom Grip - Demonhide Gloves
@@ -3743,6 +3744,7 @@ ItemDisplay[UNI !ID FILTLVL<8 (7tw OR uml OR xar OR ulg OR urg OR xlt OR 8mx OR 
 // Heart Carver - Rondel
 // Bloodfist - Heavy Gloves
 // Duskdeep - Full Helm
+// Marrowwalk - Boneweave Boots
 
 ItemDisplay[UNI !ID FILTLVL<8 (xpl OR zvb OR xlg OR xmg OR xhg OR xth OR baf OR utp OR uvb OR amb OR amd OR 9di OR vgl OR fhl)]: %DOT-68%%SOUNDID-2666%%GOLD%*  %NAME%  %GOLD%*
 
@@ -3866,6 +3868,16 @@ ItemDisplay[SET !ID ETH (7m7 OR 7gd OR 7fb)]: %MAP-84%%GREEN%* * * *  %NAME%  %G
 // Griswolds Redemption - Caduceus
 // Griswolds Honor - Vortex Shield
 // Deaths Hand - Leather Gloves
+// Trang-Ouls Guise - Bone Visage
+// Immortal Kings Soul Cage - Sacred Armor
+// Guillaumes Face - Winged Helm
+// Mavinas True Sight - Diadem
+// Mavinas Caster - Grand Matron Bow
+// Mavinas Embrace - Kraken Shell
+// Mavinas Icy Clutch - Battle Gauntlets
+// Mavinas Tenet - Sharkskin Belt
+// Tal Rashas Guardianship - Lacquered Plate
+// Laying of Hands - Bramble Mitts
 
 ItemDisplay[SET !ID FILTLVL<9 (ne9 OR utc OR xmg OR uhm OR xul OR 7ws OR paf OR lgl)]: %MAP-84%%TIER-7%%GREEN%* * *  %NAME%  %GREEN%* * *
 
@@ -3896,7 +3908,6 @@ ItemDisplay[SET !ID FILTLVL<9 (ltp OR ucl OR xh9 OR 7qr OR mbl)]: %DOT-84%%TIER-
 
 // Set tier 1 Set Callouts
 //-----------------------------------------------------------------------------------
-// Laying of Hands - Bramble Mitts
 // Najs Puzzler//  Elder Staff
 // Aldurs Advance - Battle Boots
 // Aldurs Deception - Shadow Plate
@@ -3909,15 +3920,7 @@ ItemDisplay[SET !ID FILTLVL<9 (ltp OR ucl OR xh9 OR 7qr OR mbl)]: %DOT-84%%TIER-
 // Tal Rashas Lidless Eye - Swirling Crystal
 // Tal Rashas Horadric Crest - Death Mask
 // Tal Rashas Fine-Spun Cloth - Mesh Belt
-// Trang-Ouls Guise - Bone Visage
-// Immortal Kings Soul Cage - Sacred Armor
-// Guillaumes Face - Winged Helm
-// Mavinas True Sight - Diadem
-// Mavinas Caster - Grand Matron Bow
-// Mavinas Embrace - Kraken Shell
-// Mavinas Icy Clutch - Battle Gauntlets
-// Mavinas Tenet - Sharkskin Belt
-// Tal Rashas Guardianship - Lacquered Plate
+
 
 ItemDisplay[SET !ID FILTLVL<7 (ulg OR 6cs OR xtb OR uul OR ba5 OR 7m7 OR zhb OR xhg OR xhb OR xmb OR oba OR xsk OR zmb OR uh9 OR uar OR xhm OR ci3 OR amc OR uld OR xtg OR zvb OR uth)]: %DOT-84%%GREEN%*  %NAME%  %GREEN%*
 
