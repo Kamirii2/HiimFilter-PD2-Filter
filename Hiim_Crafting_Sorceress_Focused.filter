@@ -1159,6 +1159,8 @@ ItemDisplay[!RW !UNI !SET ghm]: %CONTINUE%Great Helm
 ItemDisplay[!RW !UNI !SET msk]: %CONTINUE%Mask
 ItemDisplay[!RW !UNI !SET crn]: %CONTINUE%Crown
 ItemDisplay[!RW !UNI !SET bhm]: %CONTINUE%Bone Helm
+ItemDisplay[UNI !ID fhl]: %CONTINUE%Duskdeep - Full Helm
+
 
 // Exceptional tier Helms
 ItemDisplay[!RW !UNI !SET xap]: %CONTINUE%War Hat
