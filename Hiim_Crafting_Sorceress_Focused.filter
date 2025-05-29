@@ -3703,8 +3703,18 @@ ItemDisplay[UNI !ID FILTLVL<8 (7tw OR uml OR xar OR ulg OR urg OR xlt OR 8mx OR 
 
 
 // Tier 0 Unique Callouts
+// Filter level 1-7
+//-----------------------------------------------------------------------------------
+// Venom Ward - Breast Plate
+
+
+ItemDisplay[UNI !ID FILTLVL<8 (xpl OR zvb OR xlg OR xmg OR xhg OR xth OR baf OR utp OR uvb OR amb OR amd OR 9di OR vgl OR fhl)]: %DOT-68%%SOUNDID-2666%%GOLD%*  %NAME%  %GOLD%*
+
+
+// Tier 0 Unique Callouts
 // Filter level 1-6
 //-----------------------------------------------------------------------------------
+// Black Hades - Chaos Armor
 // Peasant Crown - War Hat
 // Cerebus Bite - Blood Spirit
 // Gravepalm - Sharkskin Gloves
@@ -3746,14 +3756,6 @@ ItemDisplay[UNI !ID FILTLVL<8 (7tw OR uml OR xar OR ulg OR urg OR xlt OR 8mx OR 
 // Bloodfist - Heavy Gloves
 // Duskdeep - Full Helm
 // Marrowwalk - Boneweave Boots
-
-ItemDisplay[UNI !ID FILTLVL<8 (xpl OR zvb OR xlg OR xmg OR xhg OR xth OR baf OR utp OR uvb OR amb OR amd OR 9di OR vgl OR fhl)]: %DOT-68%%SOUNDID-2666%%GOLD%*  %NAME%  %GOLD%*
-
-
-// Tier 0 Unique Callouts
-// Filter level 1-6
-//-----------------------------------------------------------------------------------
-// Black Hades - Chaos Armor
 // Goldwrap - Heavy Belt
 // Gorefoot - Heavy Boots
 // Treads of Cthon - Chain Boots
@@ -3774,7 +3776,6 @@ ItemDisplay[UNI !ID FILTLVL<8 (xpl OR zvb OR xlg OR xmg OR xhg OR xth OR baf OR 
 // Bartucs Cut-Throat - Greater Talons
 // Ondals Wisdom - Elder Staff
 // The Jade Tan Do - Kris
-// Venom Ward - Breast Plate
 // Valkyrie Wing - Winged Helm
 // Windhammer - Ogre Maul
 // Titans Revenge - Ceremonial Javelin
