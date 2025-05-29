@@ -766,15 +766,16 @@ ItemDisplay[rvl FILTLVL<8]: %WHITE%Rejuv %PURPLE%65%
 ItemDisplay[rvl FILTLVL<9]: %WHITE%juv %PURPLE%65%
 ItemDisplay[rvl FILTLVL=9]: %PURPLE%GATORADE
 ItemDisplay[rvl]:
+
+// Hide bad pots when appropriate based on filter level
+ItemDisplay[(hp1 OR hp2 OR hp3 OR hp4) FILTLVL>2]:
+ItemDisplay[(mp1 OR mp2 OR mp3 OR mp4) FILTLVL>2]:
+ItemDisplay[rvl]:
 ItemDisplay[rvs FILTLVL<3]: %PURPLE%* %WHITE%Rejuv %PURPLE%35% %PURPLE%*
 ItemDisplay[rvs FILTLVL<7]: %WHITE%juv%PURPLE%35%
 ItemDisplay[rvs FILTLVL<8]: %WHITE%j%PURPLE%35%
 ItemDisplay[rvs FILTLVL=9]: %PURPLE%powerade
 ItemDisplay[rvs]:
-
-// Hide bad pots when appropriate based on filter level
-ItemDisplay[(hp1 OR hp2 OR hp3 OR hp4) FILTLVL>2]:
-ItemDisplay[(mp1 OR mp2 OR mp3 OR mp4) FILTLVL>2]:
 
 // Hide pots when appropriate based on gameplay
 ItemDisplay[(hp1 OR hp2) (DIFF>0 OR CLVL>79)]:
